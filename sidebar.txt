@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mft:home|Door43 (mft)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mft|d43-mft repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mft/archive/master.zip|d43-mft.zip]]
+
+**Recent Changes**
+{{changes>ns = mft}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mft|Ethnologue data]]
+
